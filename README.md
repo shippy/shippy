@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm an AI/ML Engineer focused on **evaluations, benchmarks, and verification** — making AI systems more rigorous and trustworthy. Currently at [Waypoint](https://waypoint.com), working on evaluations, knowledge graphs, and AI strategy.
+I'm an AI/ML Engineer focused on **evaluations, benchmarks, and verification** — making AI systems more rigorous and trustworthy. Currently at [Waypoint](https://mywaypoint.ai), working on evaluations, knowledge graphs, and AI strategy.
 
 My background spans neuroscience research (Yale, SRI/Stanford), data science, and software engineering. I believe evals are the weak link in AI development, and I'm working to change that.
 
