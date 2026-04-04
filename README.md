@@ -13,9 +13,9 @@ My background spans neuroscience research (Yale, SRI/Stanford), data science, an
 
 #### Recent articles
 
-- [Don't Write Evals for Fast-Moving Systems](https://simon.podhajsky.net/blog/evaluating-clobsidian/) (2026)
-- [Clobsidian in Detail: Cross-Source Personal Infrastructure](https://simon.podhajsky.net/blog/clobsidian-in-detail/) (2026)
-- [Clobsidian, and other winter experiments with Claude Code](https://simon.podhajsky.net/blog/claude-code-in-pkm/) (2026)
+- [Don't Write Evals for Fast-Moving Systems](https://simon.podhajsky.net/blog/2026/evaluating-clobsidian/) (2026)
+- [Clobsidian in Detail: Cross-Source Personal Infrastructure](https://simon.podhajsky.net/blog/2026/clobsidian-in-detail/) (2026)
+- [Clobsidian, and other winter experiments with Claude Code](https://simon.podhajsky.net/blog/2026/claude-code-in-pkm/) (2026)
 
 See [my blog](https://simon.podhajsky.net/blog/) for a full list of articles.
 
